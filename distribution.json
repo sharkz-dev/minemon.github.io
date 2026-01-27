@@ -28,7 +28,7 @@
   "type": "Fabric",
   "artifact": {
     "size": 1944518,
-    "MD5": "56C00FA22E0452E8567BE1FEAE73C3B9",
+    "MD5": "56c00fa22e0452e8567be1feae73c3b9",
     "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
   },
   "subModules": [
