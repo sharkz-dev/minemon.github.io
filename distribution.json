@@ -23,13 +23,13 @@
               "autoconnect": true,
               "modules": [
                   {
-                      "id": "net.fabricmc:fabric-loader:0.16.9",
-                      "name": "Fabric Loader 0.16.9",
-                      "type": "Fabric",
+          "id": "net.fabricmc:fabric-loader:0.18.4",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
                       "artifact": {
-                          "size": 0,
-                          "MD5": "",
-                          "url": ""
+                          "size": 1944518,
+                          "MD5": "56C00FA22E0452E8567BE1FEAE73C3B9",
+                          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
                       },
                       "subModules": [
                           {
