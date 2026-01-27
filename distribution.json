@@ -14,13 +14,6 @@
       "version": "1.0.0",
       "address": "minemon.es:25565",
       "minecraftVersion": "1.21.1",
-
-      "modLoader": {
-        "type": "fabric",
-        "minecraftVersion": "1.21.1",
-        "loaderVersion": "0.18.4"
-      },
-
       "discord": {
         "shortId": "Minemon",
         "largeImageText": "Minemon Network",
@@ -28,18 +21,25 @@
       },
       "mainServer": true,
       "autoconnect": true,
-
       "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.18.4",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1944518,
-            "MD5": "56C00FA22E0452E8567BE1FEAE73C3B9",
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
-          },
-          "subModules": [
+{
+  "id": "net.fabricmc:fabric-loader:0.18.4",
+  "name": "Fabric (fabric-loader)",
+  "type": "Fabric",
+  "artifact": {
+    "size": 1944518,
+    "MD5": "56C00FA22E0452E8567BE1FEAE73C3B9",
+    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+  },
+  "subModules": [
+    {
+      "id": "1.21.1-fabric-0.18.4",
+      "name": "Fabric (version.json)",
+      "type": "VersionManifest",
+      "artifact": {
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.4/profile/json"
+      }
+    },
             {
               "id": "mod:fabric-api-0.116.8+1.21.1",
               "name": "Fabric API",
