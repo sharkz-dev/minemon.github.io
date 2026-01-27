@@ -1,35 +1,27 @@
-{
-  "version": "1.0.0",
-  "discord": {
-    "clientId": "123456789012345678",
-    "smallImageText": "Minemon",
-    "smallImageKey": "seal-circle"
-  },
-  "servers": [
-    {
-      "id": "minemon",
-      "name": "Minemon Network",
-      "description": "Servidor Cobblemon con Fabric 1.21.1",
-      "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
-      "version": "1.0.0",
-      "address": "minemon.es:25565",
-      "minecraftVersion": "1.21.1",
-
-      "modLoader": {
-        "type": "fabric",
-        "minecraftVersion": "1.21.1",
-        "loaderVersion": "0.18.4"
-      },
-
+ {                                                                                                                                                                                                        
+      "version": "1.0.0",                                                                                                                                                                                  
       "discord": {
-        "shortId": "Minemon",
-        "largeImageText": "Minemon Network",
-        "largeImageKey": "seal-circle"
+          "clientId": "123456789012345678",
+          "smallImageText": "Minemon",
+          "smallImageKey": "seal-circle"
       },
-      "mainServer": true,
-      "autoconnect": true,
-
-      "modules": [
+      "servers": [
+          {
+              "id": "minemon",
+              "name": "Minemon Network",
+              "description": "Servidor Cobblemon con Fabric 1.21.1",
+              "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
+              "version": "1.0.0",
+              "address": "minemon.es:25565",
+              "minecraftVersion": "1.21.1",
+              "discord": {
+                  "shortId": "Minemon",
+                  "largeImageText": "Minemon Network",
+                  "largeImageKey": "seal-circle"
+              },
+              "mainServer": true,
+              "autoconnect": true,
+              "modules": [
                   {
           "id": "fabric-loader",
           "name": "Fabric (fabric-loader)",
