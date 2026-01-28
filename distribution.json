@@ -121,7 +121,7 @@
           }
         },
         {
-          "id": "mod:mega_showdown-fabric-1.5.1+1.7.1+1.21.1",
+          "id": "mod:mega_showdown-fabric-1.6.1+1.7.1+1.21.1",
           "name": "Mega Showdown",
           "type": "FabricMod",
           "required": { "value": true, "def": true },
@@ -883,28 +883,6 @@
             "size": 345544,
             "MD5": "d383c451682320ffad7f1a2edb53a2b9",
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods/moreculling-fabric-1.21.1-1.0.6.jar"
-          }
-        },
-        {
-          "id": "mod:modmenu-11.0.3",
-          "name": "Mod Menu",
-          "type": "FabricMod",
-          "required": { "value": false, "def": true },
-          "artifact": {
-            "size": 973066,
-            "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/modmenu-11.0.3.jar"
-          }
-        },
-        {
-          "id": "file:modmenu.json",
-          "name": "modmenu.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/modmenu.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/modmenu.json",
-            "MD5": "6f801fc101c146e1c993f05544858c34",
-            "size": 840
           }
         },
         {
