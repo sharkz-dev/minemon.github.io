@@ -1205,16 +1205,16 @@
           }
         },
 {
-          "id": "file:options.txt",
-          "name": "Options",
-          "type": "File",
-          "artifact": {
-            "path": "options.txt",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/options.txt",
-            "MD5": "f81ea80bbe89405e916289a965739573",
-            "size": 6324
-          }
-        },
+    "name":  "Options",
+    "id":  "file:options.txt",
+    "type":  "File",
+    "artifact":  {
+                     "path":  "options.txt",
+                     "url":  "https://sharkz-dev.github.io/minemon.github.io/options.txt",
+                     "MD5":  "f81ea80bbe89405e916289a965739573",
+                     "size":  6324
+                 }
+},
         {
           "id": "file:servers.dat",
           "name": "Server List",
