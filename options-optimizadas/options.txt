@@ -17,13 +17,13 @@ gamma:1.0
 graphicsMode:1
 guiScale:3
 maxFps:260
-mipmapLevels:4
+mipmapLevels:0
 narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:8
-simulationDistance:8
+renderDistance:2
+simulationDistance:2
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
