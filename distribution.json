@@ -616,14 +616,14 @@
           }
         },
         {
-          "id": "file:options.txt",
-          "name": "Options",
+          "id": "file:sodium-options.json",
+          "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "path": "options.txt",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/options.txt",
-            "MD5": "f81ea80bbe89405e916289a965739573",
-            "size": 6324
+            "path": "config/sodium-options.json",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-options.json",
+            "MD5": "263174dc942d3e5438bb65bce9108488",
+            "size": 686
           }
         },
         {
