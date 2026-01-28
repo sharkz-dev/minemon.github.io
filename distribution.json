@@ -7,9 +7,9 @@
   },
   "servers": [
     {
-      "id": "minemon",
-      "name": "Minemon Network",
-      "description": "Servidor Cobblemon con Fabric 1.21.1",
+      "id": "minemon-full",
+      "name": "Minemon Full",
+      "description": "Servidor Cobblemon con Fabric 1.21.1 (Todos los mods)",
       "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
       "version": "1.0.0",
       "address": "minemon.es:25565",
@@ -102,10 +102,7 @@
           "id": "mod:fabric-api-0.116.8+1.21.1",
           "name": "Fabric API",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 2425441,
             "MD5": "54d845f0ec97490a5e1b0dc4201d7c01",
@@ -116,10 +113,7 @@
           "id": "mod:Cobblemon-fabric-1.7.1+1.21.1",
           "name": "Cobblemon",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 130797814,
             "MD5": "e59f92473437da937e85a892a5875d3d",
@@ -130,10 +124,7 @@
           "id": "mod:mega_showdown-fabric-1.6.1+1.7.1+1.21.1",
           "name": "Mega Showdown",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 16275404,
             "MD5": "dd45a40da894bcc02cd12614dbf90324",
@@ -144,10 +135,7 @@
           "id": "mod:architectury-13.0.8-fabric",
           "name": "Architectury API",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 600915,
             "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
@@ -158,10 +146,7 @@
           "id": "mod:cloth-config-15.0.140-fabric",
           "name": "Cloth Config",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 1157166,
             "MD5": "a2c091b027ad6ba8e54b07020fd45884",
@@ -172,10 +157,7 @@
           "id": "mod:owo-lib-0.12.15.4+1.21",
           "name": "Owo Lib",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 1183559,
             "MD5": "3627aee17111e12a8c66928f5d7a3fba",
@@ -186,10 +168,7 @@
           "id": "mod:accessories-fabric-1.1.0-beta.52+1.21.1",
           "name": "Accessories",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 1095894,
             "MD5": "8d601e9373c7657c978235e8c0ab2da8",
@@ -200,10 +179,7 @@
           "id": "mod:placeholder-api-2.4.2+1.21",
           "name": "Placeholder API",
           "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
+          "required": { "value": true, "def": true },
           "artifact": {
             "size": 232325,
             "MD5": "4de8568a088a276c94168514d625413d",
@@ -211,13 +187,21 @@
           }
         },
         {
+          "id": "mod:voicechat-fabric-1.21.1-2.6.11",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
+          "artifact": {
+            "size": 5341236,
+            "MD5": "7bc61fa298eba84cb10ab82a8199e3f1",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/voicechat-fabric-1.21.1-2.6.11.jar"
+          }
+        },
+        {
           "id": "mod:sodium-fabric-0.6.13+mc1.21.1",
           "name": "Sodium",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 1297761,
             "MD5": "aa37ba0048a1af6b554b137088cad484",
@@ -228,10 +212,7 @@
           "id": "mod:indium-1.0.35+mc1.21",
           "name": "Indium",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 105000,
             "MD5": "db92c620cb72a41403b928a0b45955d0",
@@ -242,10 +223,7 @@
           "id": "mod:lithium-fabric-0.15.1+mc1.21.1",
           "name": "Lithium",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 772848,
             "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8",
@@ -256,10 +234,7 @@
           "id": "mod:ferritecore-7.0.3-fabric",
           "name": "FerriteCore",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 123450,
             "MD5": "b8513c8c3eef01ea1117ed8d8cba060d",
@@ -270,10 +245,7 @@
           "id": "mod:moreculling-fabric-1.21.1-1.0.6",
           "name": "More Culling",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 345544,
             "MD5": "d383c451682320ffad7f1a2edb53a2b9",
@@ -284,10 +256,7 @@
           "id": "mod:bobby-5.2.4+mc1.21",
           "name": "Bobby",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 863192,
             "MD5": "2f842ec35ec49b869047786de5551420",
@@ -295,27 +264,10 @@
           }
         },
         {
-          "id": "mod:voicechat-fabric-1.21.1-2.6.11",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 5341236,
-            "MD5": "7bc61fa298eba84cb10ab82a8199e3f1",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/voicechat-fabric-1.21.1-2.6.11.jar"
-          }
-        },
-        {
           "id": "mod:xaerominimap-fabric-1.21.1-25.3.5",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 2159839,
             "MD5": "fb6b4241c0573185502ad9f840c4c1a7",
@@ -326,10 +278,7 @@
           "id": "mod:xaeroworldmap-fabric-1.21.1-1.40.6",
           "name": "Xaero's World Map",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 1406730,
             "MD5": "3871e11f81a54867de32a81f885291e2",
@@ -340,10 +289,7 @@
           "id": "mod:Jade-1.21.1-Fabric-15.10.4",
           "name": "Jade",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 738993,
             "MD5": "615ee11fead402625a251ec6e245265b",
@@ -354,10 +300,7 @@
           "id": "mod:RoughlyEnoughItems-16.0.799-fabric",
           "name": "Roughly Enough Items (REI)",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 2451799,
             "MD5": "8a011fbf376cc4350743274bfd16d3cf",
@@ -368,10 +311,7 @@
           "id": "mod:modmenu-11.0.3",
           "name": "Mod Menu",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
+          "required": { "value": false, "def": true },
           "artifact": {
             "size": 973066,
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0",
@@ -500,50 +440,6 @@
           }
         },
         {
-          "id": "file:xaerominimap-common.txt.backup0",
-          "name": "xaerominimap-common.txt.backup0",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaerominimap-common.txt.backup0",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaerominimap-common.txt.backup0",
-            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
-            "size": 145
-          }
-        },
-        {
-          "id": "file:xaeropatreon.txt",
-          "name": "xaeropatreon.txt",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaeropatreon.txt",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "size": 0
-          }
-        },
-        {
-          "id": "file:xaeroworldmap-common.txt.backup0",
-          "name": "xaeroworldmap-common.txt.backup0",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaeroworldmap-common.txt.backup0",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaeroworldmap-common.txt.backup0",
-            "MD5": "5a2200d083554257d61384f2c486162b",
-            "size": 120
-          }
-        },
-        {
-          "id": "file:xaeroworldmap.txt.backup0",
-          "name": "xaeroworldmap.txt.backup0",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaeroworldmap.txt.backup0",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaeroworldmap.txt.backup0",
-            "MD5": "4b545558404b8779b179c7d103891871",
-            "size": 1220
-          }
-        },
-        {
           "id": "file:main.json",
           "name": "main.json",
           "type": "File",
@@ -566,7 +462,7 @@
           }
         },
         {
-          "id": "file:hide-blocks.json",
+          "id": "file:jade-hide-blocks.json",
           "name": "hide-blocks.json",
           "type": "File",
           "artifact": {
@@ -577,7 +473,7 @@
           }
         },
         {
-          "id": "file:hide-entities.json",
+          "id": "file:jade-hide-entities.json",
           "name": "hide-entities.json",
           "type": "File",
           "artifact": {
@@ -599,7 +495,7 @@
           }
         },
         {
-          "id": "file:plugins.json",
+          "id": "file:jade-plugins.json",
           "name": "plugins.json",
           "type": "File",
           "artifact": {
@@ -610,7 +506,7 @@
           }
         },
         {
-          "id": "file:sort-order.json",
+          "id": "file:jade-sort-order.json",
           "name": "sort-order.json",
           "type": "File",
           "artifact": {
@@ -621,7 +517,7 @@
           }
         },
         {
-          "id": "file:usernamecache.json",
+          "id": "file:jade-usernamecache.json",
           "name": "usernamecache.json",
           "type": "File",
           "artifact": {
@@ -632,7 +528,7 @@
           }
         },
         {
-          "id": "file:config.json",
+          "id": "file:mega_showdown-config.json",
           "name": "config.json",
           "type": "File",
           "artifact": {
@@ -643,7 +539,7 @@
           }
         },
         {
-          "id": "file:collapsible.json5",
+          "id": "file:rei-collapsible.json5",
           "name": "collapsible.json5",
           "type": "File",
           "artifact": {
@@ -654,7 +550,7 @@
           }
         },
         {
-          "id": "file:config.json5",
+          "id": "file:rei-config.json5",
           "name": "config.json5",
           "type": "File",
           "artifact": {
@@ -665,7 +561,7 @@
           }
         },
         {
-          "id": "file:favorites.json5",
+          "id": "file:rei-favorites.json5",
           "name": "favorites.json5",
           "type": "File",
           "artifact": {
@@ -676,7 +572,7 @@
           }
         },
         {
-          "id": "file:hints.json",
+          "id": "file:rei-hints.json",
           "name": "hints.json",
           "type": "File",
           "artifact": {
@@ -687,29 +583,7 @@
           }
         },
         {
-          "id": "file:pinyin.properties",
-          "name": "pinyin.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/pinyin.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/pinyin.properties",
-            "MD5": "4f0b4240b164e9367d75ca35e7d6ff17",
-            "size": 49
-          }
-        },
-        {
-          "id": "file:pinyin_double.properties",
-          "name": "pinyin_double.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/pinyin_double.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/pinyin_double.properties",
-            "MD5": "74a2fab24bbd9f16b234ecd420677767",
-            "size": 74
-          }
-        },
-        {
-          "id": "file:category-volumes.properties",
+          "id": "file:voicechat-category-volumes.properties",
           "name": "category-volumes.properties",
           "type": "File",
           "artifact": {
@@ -720,7 +594,7 @@
           }
         },
         {
-          "id": "file:player-volumes.properties",
+          "id": "file:voicechat-player-volumes.properties",
           "name": "player-volumes.properties",
           "type": "File",
           "artifact": {
@@ -731,7 +605,7 @@
           }
         },
         {
-          "id": "file:translations.properties",
+          "id": "file:voicechat-translations.properties",
           "name": "translations.properties",
           "type": "File",
           "artifact": {
@@ -739,17 +613,6 @@
             "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/translations.properties",
             "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "size": 1182
-          }
-        },
-        {
-          "id": "file:username-cache.json",
-          "name": "username-cache.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/voicechat/username-cache.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/username-cache.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "size": 2
           }
         },
         {
@@ -764,190 +627,317 @@
           }
         },
         {
-          "id": "file:voicechat-server.properties",
-          "name": "voicechat-server.properties",
+          "id": "file:options.txt",
+          "name": "Options",
           "type": "File",
           "artifact": {
-            "path": "config/voicechat/voicechat-server.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/voicechat-server.properties",
-            "MD5": "9eb3aeb308a1c84bec0c5d6a3c3f39fd",
-            "size": 2442
+            "path": "options.txt",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/options.txt",
+            "MD5": "f81ea80bbe89405e916289a965739573",
+            "size": 6324
           }
         },
         {
-          "id": "file:client.cfg",
-          "name": "client.cfg",
+          "id": "file:servers.dat",
+          "name": "Server List",
           "type": "File",
           "artifact": {
-            "path": "config/xaero/lib/client.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/lib/client.cfg",
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
-            "size": 26
+            "path": "servers.dat",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/servers.dat",
+            "MD5": "8c2b4276edbe171981f433068de48f68",
+            "size": 10148
+          }
+        }
+      ]
+    },
+    {
+      "id": "minemon-optimizado",
+      "name": "Minemon Optimizado",
+      "description": "Servidor Cobblemon con Fabric 1.21.1 (Solo esenciales)",
+      "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
+      "version": "1.1.0",
+      "address": "minemon.es:25565",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "Minemon",
+        "largeImageText": "Minemon Network",
+        "largeImageKey": "seal-circle"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.4",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1944518,
+            "MD5": "56c00fa22e0452e8567be1feae73c3b9",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.1-fabric-0.18.4",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.4/profile/json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7",
+              "name": "ASM",
+              "type": "Library",
+              "artifact": {
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7",
+              "name": "ASM Analysis",
+              "type": "Library",
+              "artifact": {
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7",
+              "name": "ASM Commons",
+              "type": "Library",
+              "artifact": {
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7",
+              "name": "ASM Tree",
+              "type": "Library",
+              "artifact": {
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7",
+              "name": "ASM Util",
+              "type": "Library",
+              "artifact": {
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.0+mixin.0.8.7",
+              "name": "Sponge Mixin",
+              "type": "Library",
+              "artifact": {
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mod:fabric-api-0.116.8+1.21.1",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
+          "artifact": {
+            "size": 2425441,
+            "MD5": "54d845f0ec97490a5e1b0dc4201d7c01",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/fabric-api-0.116.8+1.21.1.jar"
           }
         },
         {
-          "id": "file:common.cfg",
-          "name": "common.cfg",
-          "type": "File",
+          "id": "mod:Cobblemon-fabric-1.7.1+1.21.1",
+          "name": "Cobblemon",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/lib/common.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/lib/common.cfg",
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
-            "size": 236
+            "size": 130797814,
+            "MD5": "e59f92473437da937e85a892a5875d3d",
+            "url": "https://github.com/sharkz-dev/minemon.github.io/releases/download/v1.0.0/Cobblemon-fabric-1.7.1+1.21.1.jar"
           }
         },
         {
-          "id": "file:xaero-lib-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
+          "id": "mod:mega_showdown-fabric-1.5.1+1.7.1+1.21.1-b-4",
+          "name": "Mega Showdown",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/lib/profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/lib/profiles/default.cfg",
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
-            "size": 121
+            "size": 16275404,
+            "MD5": "dd45a40da894bcc02cd12614dbf90324",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.5.1+1.7.1+1.21.1-b-4.jar"
           }
         },
         {
-          "id": "file:xaero-lib-server-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
+          "id": "mod:architectury-13.0.8-fabric",
+          "name": "Architectury API",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/lib/server_profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/lib/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-            "size": 75
+            "size": 600915,
+            "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/architectury-13.0.8-fabric.jar"
           }
         },
         {
-          "id": "file:xaero-minimap-client.cfg",
-          "name": "client.cfg",
-          "type": "File",
+          "id": "mod:cloth-config-15.0.140-fabric",
+          "name": "Cloth Config",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/client.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/client.cfg",
-            "MD5": "e6cab78de4179f677ad4f6251cb82099",
-            "size": 237
+            "size": 1157166,
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/cloth-config-15.0.140-fabric.jar"
           }
         },
         {
-          "id": "file:xaero-minimap-common.cfg",
-          "name": "common.cfg",
-          "type": "File",
+          "id": "mod:owo-lib-0.12.15.4+1.21",
+          "name": "Owo Lib",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/common.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/common.cfg",
-            "MD5": "48d56532be92f58e976a2d1753abdd35",
-            "size": 147
+            "size": 1183559,
+            "MD5": "3627aee17111e12a8c66928f5d7a3fba",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/owo-lib-0.12.15.4+1.21.jar"
           }
         },
         {
-          "id": "file:default_radar_categories_client.json",
-          "name": "default_radar_categories_client.json",
-          "type": "File",
+          "id": "mod:accessories-fabric-1.1.0-beta.52+1.21.1",
+          "name": "Accessories",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/default_radar_categories_client.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/default_radar_categories_client.json",
-            "MD5": "6aa0c1720795d59a3cd21e3becba9685",
-            "size": 5531
+            "size": 1095894,
+            "MD5": "8d601e9373c7657c978235e8c0ab2da8",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
           }
         },
         {
-          "id": "file:default_radar_categories_server.json",
-          "name": "default_radar_categories_server.json",
-          "type": "File",
+          "id": "mod:placeholder-api-2.4.2+1.21",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/default_radar_categories_server.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/default_radar_categories_server.json",
-            "MD5": "7ffe568a308241b93166af2d45ce79c7",
-            "size": 4597
+            "size": 232325,
+            "MD5": "4de8568a088a276c94168514d625413d",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/placeholder-api-2.4.2+1.21.jar"
           }
         },
         {
-          "id": "file:xaero-minimap-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
+          "id": "mod:voicechat-fabric-1.21.1-2.6.11",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "required": { "value": true, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "ef7ac5aaced4f56fec5d36afcdd0fc0e",
-            "size": 3747
+            "size": 5341236,
+            "MD5": "7bc61fa298eba84cb10ab82a8199e3f1",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/voicechat-fabric-1.21.1-2.6.11.jar"
           }
         },
         {
-          "id": "file:default.cfg.json",
-          "name": "default.cfg.json",
-          "type": "File",
+          "id": "mod:sodium-fabric-0.6.13+mc1.21.1",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "required": { "value": false, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "MD5": "71086272395ab15f8fdaad8e2c7320da",
-            "size": 5531
+            "size": 1297761,
+            "MD5": "aa37ba0048a1af6b554b137088cad484",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/sodium-fabric-0.6.13+mc1.21.1.jar"
           }
         },
         {
-          "id": "file:default.cfg.txt",
-          "name": "default.cfg.txt",
-          "type": "File",
+          "id": "mod:indium-1.0.35+mc1.21",
+          "name": "Indium",
+          "type": "FabricMod",
+          "required": { "value": false, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "MD5": "64d98932063f0be723920fbdb1de1268",
-            "size": 684
+            "size": 105000,
+            "MD5": "db92c620cb72a41403b928a0b45955d0",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/indium-1.0.35+mc1.21.jar"
           }
         },
         {
-          "id": "file:xaero-minimap-server-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
+          "id": "mod:lithium-fabric-0.15.1+mc1.21.1",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "required": { "value": false, "def": true },
           "artifact": {
-            "path": "config/xaero/minimap/server_profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/minimap/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-            "size": 75
+            "size": 772848,
+            "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/lithium-fabric-0.15.1+mc1.21.1.jar"
           }
         },
         {
-          "id": "file:xaero-worldmap-client.cfg",
-          "name": "client.cfg",
+          "id": "mod:ferritecore-7.0.3-fabric",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "required": { "value": false, "def": true },
+          "artifact": {
+            "size": 123450,
+            "MD5": "b8513c8c3eef01ea1117ed8d8cba060d",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/ferritecore-7.0.3-fabric.jar"
+          }
+        },
+        {
+          "id": "mod:moreculling-fabric-1.21.1-1.0.6",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "required": { "value": false, "def": true },
+          "artifact": {
+            "size": 345544,
+            "MD5": "d383c451682320ffad7f1a2edb53a2b9",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/moreculling-fabric-1.21.1-1.0.6.jar"
+          }
+        },
+        {
+          "id": "file:accessories.json5",
+          "name": "accessories.json5",
           "type": "File",
           "artifact": {
-            "path": "config/xaero/world-map/client.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/world-map/client.cfg",
-            "MD5": "7f61d069434443dc7d11c3c20ad75698",
+            "path": "config/accessories.json5",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/accessories.json5",
+            "MD5": "c650b5f2c1efe0938cdf4f76eede88a0",
+            "size": 915
+          }
+        },
+        {
+          "id": "file:main.json",
+          "name": "main.json",
+          "type": "File",
+          "artifact": {
+            "path": "config/cobblemon/main.json",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/cobblemon/main.json",
+            "MD5": "6ba9f964d7ee94865af1aefa594b3089",
+            "size": 3370
+          }
+        },
+        {
+          "id": "file:mega_showdown-config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "path": "config/mega_showdown/config.json",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/mega_showdown/config.json",
+            "MD5": "f4f07429b1af61587b7f3b38ff434254",
             "size": 468
           }
         },
         {
-          "id": "file:xaero-worldmap-common.cfg",
-          "name": "common.cfg",
+          "id": "file:voicechat-client.properties",
+          "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "path": "config/xaero/world-map/common.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/world-map/common.cfg",
-            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
-            "size": 141
-          }
-        },
-        {
-          "id": "file:xaero-worldmap-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaero/world-map/profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/world-map/profiles/default.cfg",
-            "MD5": "f4151e7df2284ff2ab24bef0ca2365c2",
-            "size": 1379
-          }
-        },
-        {
-          "id": "file:xaero-worldmap-server-profiles-default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaero/world-map/server_profiles/default.cfg",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaero/world-map/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-            "size": 75
+            "path": "config/voicechat/voicechat-client.properties",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/voicechat-client.properties",
+            "MD5": "5ce3c073531fd8a7f6e3096cd0db6224",
+            "size": 4898
           }
         },
         {
