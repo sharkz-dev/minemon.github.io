@@ -121,7 +121,7 @@
           }
         },
         {
-          "id": "mod:mega_showdown-fabric-1.5.1+1.7.1+1.21.1",
+          "id": "mod:mega_showdown-fabric-1.6.1+1.7.1+1.21.1",
           "name": "Mega Showdown",
           "type": "FabricMod",
           "required": { "value": true, "def": true },
@@ -406,17 +406,17 @@
             "size": 258
           }
         },
-{
-    "name":  "Options",
-    "id":  "file:options.txt",
-    "type":  "File",
-    "artifact":  {
-                     "path":  "options.txt",
-                     "url":  "https://sharkz-dev.github.io/minemon.github.io/options.txt",
-                     "MD5":  "f81ea80bbe89405e916289a965739573",
-                     "size":  6324
-                 }
-},
+        {
+          "id": "file:sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "path": "config/sodium-options.json",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-options.json",
+            "MD5": "263174dc942d3e5438bb65bce9108488",
+            "size": 686
+          }
+        },
         {
           "id": "file:xaerohud.txt",
           "name": "xaerohud.txt",
@@ -616,14 +616,14 @@
           }
         },
         {
-          "id": "file:sodium-options.json",
-          "name": "sodium-options.json",
+          "id": "file:options.txt",
+          "name": "Options",
           "type": "File",
           "artifact": {
-            "path": "config/sodium-options.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-options.json",
-            "MD5": "263174dc942d3e5438bb65bce9108488",
-            "size": 686
+            "path": "options.txt",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/options.txt",
+            "MD5": "f81ea80bbe89405e916289a965739573",
+            "size": 6324
           }
         },
         {
@@ -941,259 +941,6 @@
           }
         },
         {
-          "id": "file:appleskin.json5",
-          "name": "appleskin.json5",
-          "type": "File",
-          "artifact": {
-            "path": "config/appleskin.json5",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/appleskin.json5",
-            "MD5": "406b4584562fb60304a8adc824de0000",
-            "size": 1327
-          }
-        },
-        {
-          "id": "file:bobby.conf",
-          "name": "bobby.conf",
-          "type": "File",
-          "artifact": {
-            "path": "config/bobby.conf",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/bobby.conf",
-            "MD5": "2605b37d718c23356c536f3f35eec366",
-            "size": 1983
-          }
-        },
-        {
-          "id": "file:ferritecore.mixin.properties",
-          "name": "ferritecore.mixin.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/ferritecore.mixin.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/ferritecore.mixin.properties",
-            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
-            "size": 1525
-          }
-        },
-        {
-          "id": "file:lithium.properties",
-          "name": "lithium.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/lithium.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/lithium.properties",
-            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
-            "size": 267
-          }
-        },
-        {
-          "id": "file:moreculling.toml",
-          "name": "moreculling.toml",
-          "type": "File",
-          "artifact": {
-            "path": "config/moreculling.toml",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/moreculling.toml",
-            "MD5": "f8beb616c4a3a52cbab5827b0df5e67e",
-            "size": 540
-          }
-        },
-        {
-          "id": "file:sodium-fingerprint.json",
-          "name": "sodium-fingerprint.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/sodium-fingerprint.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-fingerprint.json",
-            "MD5": "a0aab913a1890294126aa370b01e1ce6",
-            "size": 427
-          }
-        },
-        {
-          "id": "file:sodium-mixins.properties",
-          "name": "sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/sodium-mixins.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
-            "size": 258
-          }
-        },
-        {
-          "id": "file:sodium-options.json",
-          "name": "sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/sodium-options.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/sodium-options.json",
-            "MD5": "263174dc942d3e5438bb65bce9108488",
-            "size": 686
-          }
-        },
-        {
-          "id": "file:xaerohud.txt",
-          "name": "xaerohud.txt",
-          "type": "File",
-          "artifact": {
-            "path": "config/xaerohud.txt",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/xaerohud.txt",
-            "MD5": "a0d45f109f434d90d0ff487a41c6c067",
-            "size": 124
-          }
-        },
-        {
-          "id": "file:indigo-renderer.properties",
-          "name": "indigo-renderer.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/fabric/indigo-renderer.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/fabric/indigo-renderer.properties",
-            "MD5": "51aba56a7050806ad55da286cf4b6506",
-            "size": 291
-          }
-        },
-        {
-          "id": "file:jade-hide-blocks.json",
-          "name": "hide-blocks.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/hide-blocks.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/hide-blocks.json",
-            "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
-            "size": 149
-          }
-        },
-        {
-          "id": "file:jade-hide-entities.json",
-          "name": "hide-entities.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/hide-entities.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/hide-entities.json",
-            "MD5": "a52182a33844468228bdbc58dbe5a73a",
-            "size": 243
-          }
-        },
-        {
-          "id": "file:jade.json",
-          "name": "jade.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/jade.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/jade.json",
-            "MD5": "ad37277172d44ee4f0b17d486850c163",
-            "size": 1089
-          }
-        },
-        {
-          "id": "file:jade-plugins.json",
-          "name": "plugins.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/plugins.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/plugins.json",
-            "MD5": "d4826dc64c84be4e935e13a6758d2603",
-            "size": 1970
-          }
-        },
-        {
-          "id": "file:jade-sort-order.json",
-          "name": "sort-order.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/sort-order.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/sort-order.json",
-            "MD5": "85935c7f06d74d1e025b319aea3913ad",
-            "size": 2017
-          }
-        },
-        {
-          "id": "file:jade-usernamecache.json",
-          "name": "usernamecache.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/jade/usernamecache.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/jade/usernamecache.json",
-            "MD5": "1489d49df6f77cf563e6f14738a23b58",
-            "size": 673
-          }
-        },
-        {
-          "id": "file:rei-collapsible.json5",
-          "name": "collapsible.json5",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/collapsible.json5",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/collapsible.json5",
-            "MD5": "8158f8356c45a64c0aac8763403a8c4a",
-            "size": 46
-          }
-        },
-        {
-          "id": "file:rei-config.json5",
-          "name": "config.json5",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/config.json5",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/config.json5",
-            "MD5": "647d5393d05d43b45aea01d75c39a07e",
-            "size": 5613
-          }
-        },
-        {
-          "id": "file:rei-favorites.json5",
-          "name": "favorites.json5",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/favorites.json5",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/favorites.json5",
-            "MD5": "d2920f6e330ce7d7e6c2433aa1037a52",
-            "size": 61
-          }
-        },
-        {
-          "id": "file:rei-hints.json",
-          "name": "hints.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/roughlyenoughitems/hints.json",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/roughlyenoughitems/hints.json",
-            "MD5": "a58801ca6325614b63f21c41e10dbe28",
-            "size": 63
-          }
-        },
-        {
-          "id": "file:voicechat-category-volumes.properties",
-          "name": "category-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/voicechat/category-volumes.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
-            "size": 46
-          }
-        },
-        {
-          "id": "file:voicechat-player-volumes.properties",
-          "name": "player-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/voicechat/player-volumes.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
-            "size": 44
-          }
-        },
-        {
-          "id": "file:voicechat-translations.properties",
-          "name": "translations.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/voicechat/translations.properties",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
-            "size": 1182
-          }
-        },
-        {
           "id": "file:voicechat-client.properties",
           "name": "voicechat-client.properties",
           "type": "File",
@@ -1204,17 +951,17 @@
             "size": 4898
           }
         },
-{
-    "name":  "Options",
-    "id":  "file:options.txt",
-    "type":  "File",
-    "artifact":  {
-                     "path":  "options.txt",
-                     "url":  "https://sharkz-dev.github.io/minemon.github.io/options.txt",
-                     "MD5":  "f81ea80bbe89405e916289a965739573",
-                     "size":  6324
-                 }
-},
+        {
+          "id": "file:options.txt",
+          "name": "Options",
+          "type": "File",
+          "artifact": {
+            "path": "options.txt",
+            "url": "https://sharkz-dev.github.io/minemon.github.io/options.txt",
+            "MD5": "f81ea80bbe89405e916289a965739573",
+            "size": 6324
+          }
+        },
         {
           "id": "file:servers.dat",
           "name": "Server List",
