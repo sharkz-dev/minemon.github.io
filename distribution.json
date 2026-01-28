@@ -176,17 +176,6 @@
           }
         },
         {
-          "id": "mod:placeholder-api-2.4.2+1.21",
-          "name": "Placeholder API",
-          "type": "FabricMod",
-          "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 232325,
-            "MD5": "4de8568a088a276c94168514d625413d",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/placeholder-api-2.4.2+1.21.jar"
-          }
-        },
-        {
           "id": "mod:voicechat-fabric-1.21.1-2.6.11",
           "name": "Simple Voice Chat",
           "type": "FabricMod",

@@ -1,0 +1,11 @@
+﻿{
+    "name":  "Server List",
+    "id":  "file:servers.dat",
+    "type":  "File",
+    "artifact":  {
+                     "path":  "servers.dat",
+                     "url":  "https://sharkz-dev.github.io/minemon.github.io/servers.dat",
+                     "MD5":  "8c2b4276edbe171981f433068de48f68",
+                     "size":  10148
+                 }
+}
