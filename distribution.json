@@ -121,7 +121,7 @@
           }
         },
         {
-          "id": "mod:mega_showdown-fabric-1.6.1+1.7.1+1.21.1",
+          "id": "mod:mega_showdown-fabric-1.5.1+1.7.1+1.21.1",
           "name": "Mega Showdown",
           "type": "FabricMod",
           "required": { "value": true, "def": true },
