@@ -1,0 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+      <title>Minemon Noticias</title>
+      <link>https://tienda.minemon.es</link>
+      <description>Noticias del servidor Minemon</description>
+
+      <item>
+        <title>¡Bienvenidos a Minemon!</title>
+        <link>https://minemon.es/noticia1</link>
+        <pubDate>Mon, 03 Feb 2025 12:00:00 GMT</pubDate>
+        <dc:creator>SharKz</dc:creator>
+        <content:encoded><![CDATA[
+          <p>¡Bienvenidos al servidor de Minemon!</p>
+          <p>Aquí encontrarás todas las noticias y actualizaciones.</p>
+        ]]></content:encoded>
+      </item>
+
+    </channel>
+  </rss>

@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "rss": "https://sharkz-dev.github.io/minemon.github.io/noticias.xml",
   "discord": {
     "clientId": "123456789012345678",
     "smallImageText": "Minemon",
