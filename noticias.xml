@@ -9,13 +9,25 @@
     <description>Noticias del servidor Minemon</description>
 
     <item>
-      <title>¡Bienvenidos a Minemon!</title>
-      <link>https://minemon.es/noticia1</link>
-      <pubDate>Mon, 03 Feb 2025 12:00:00 GMT</pubDate>
+      <title>Notas de Actualización v1.4.3</title>
+      <link>https://minemon.es/noticias/v1-4-3</link>
+      <pubDate>Mon, 03 Feb 2026 00:00:00 GMT</pubDate>
       <dc:creator>SharKz</dc:creator>
       <content:encoded><![CDATA[
-        <p>¡Bienvenidos al servidor de Minemon!</p>
-        <p>Aquí encontrarás todas las noticias y actualizaciones.</p>
+        <h2>NOTAS DE ACTUALIZACIÓN (v1.4.3)</h2>
+        <ul>
+          <li>Se actualizó el mod de <strong>Cobblemon</strong> y <strong>Mega Showdown</strong>.</li>
+          <li>Se añadió <strong>Navas ZA</strong> en formato de mod.</li>
+          <li>Se arregló un error del comando <code>/pay</code>.</li>
+          <li>Se rebajó el precio de los movimientos del comando <code>/builder</code>.</li>
+          <li>Se eliminaron mensajes de Intercambio y algunos gachas.</li>
+          <li>Se mejoró el mensaje de Raid para una mejor visibilidad.</li>
+          <li>Se añadió la tienda de <strong>Títulos</strong>.</li>
+          <li>Se añadió la tienda de <strong>Skins y Cosméticos</strong>.</li>
+          <li>Se añadieron nuevos <strong>Jefes</strong>.</li>
+          <li>Se añadieron <strong>Bolsas de Fósiles</strong>.</li>
+          <li>Se eliminó contenido innecesario (<code>"$#\"#$%\"#%</code>).</li>
+        </ul>
       ]]></content:encoded>
     </item>
 
