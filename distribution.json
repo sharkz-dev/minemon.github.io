@@ -111,27 +111,30 @@
           }
         },
         {
-          "id": "mod:Cobblemon-fabric-1.7.1+1.21.1",
+          "id": "mod:Cobblemon-fabric-1.7.3+1.21.1",
           "name": "Cobblemon",
           "type": "FabricMod",
           "required": { "value": true, "def": true },
           "artifact": {
-            "size": 130797814,
-            "MD5": "e59f92473437da937e85a892a5875d3d",
-            "url": "https://github.com/sharkz-dev/minemon.github.io/releases/download/v1.0.0/Cobblemon-fabric-1.7.1+1.21.1.jar"
+            "size": 135801550,
+            "MD5": "1de64f280372ec94e4376976fb579d52",
+            "url": "https://github.com/sharkz-dev/minemon.github.io/releases/download/v1.4.2/Cobblemon-fabric-1.7.3+1.21.1.jar"
           }
         },
-        {
-          "id": "mod:mega_showdown-fabric-1.6.1+1.7.1+1.21.1",
-          "name": "Mega Showdown",
-          "type": "FabricMod",
-          "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 16275404,
-            "MD5": "dd45a40da894bcc02cd12614dbf90324",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.5.1+1.7.1+1.21.1-b-4.jar"
-          }
-        },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.6.7+1.7.3+1.21.1.jar",
+                         "MD5":  "493f9ce24fc852b75f1258da5eff2d6e",
+                         "size":  16282162
+                     },
+        "name":  "Mega Showdown",
+        "id":  "mod:mega_showdown-fabric-1.6.7+1.7.3+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "id": "mod:architectury-13.0.8-fabric",
           "name": "Architectury API",
@@ -143,6 +146,20 @@
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods/architectury-13.0.8-fabric.jar"
           }
         },
+            {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.1.jar",
+                         "MD5":  "89325dae67912e6782f7e3d43f2b08a0",
+                         "size":  2428067
+                     },
+        "name":  "zamega-fabric-1.5.1",
+        "id":  "mod:zamega-fabric-1.5.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "id": "mod:cloth-config-15.0.140-fabric",
           "name": "Cloth Config",
@@ -275,17 +292,20 @@
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar"
           }
         },
-        {
-          "id": "mod:Jade-1.21.1-Fabric-15.10.4",
-          "name": "Jade",
-          "type": "FabricMod",
-          "required": { "value": false, "def": true },
-          "artifact": {
-            "size": 738993,
-            "MD5": "615ee11fead402625a251ec6e245265b",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/Jade-1.21.1-Fabric-15.10.4.jar"
-          }
-        },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/Jade-1.21.1-Fabric-15.10.5.jar",
+                         "MD5":  "a9c20c6a83e08abed4aa62dfa5e608ad",
+                         "size":  739009
+                     },
+        "name":  "Jade-1.21.1-Fabric-15.10.5",
+        "id":  "mod:Jade-1.21.1-Fabric-15.10.5",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "id": "mod:RoughlyEnoughItems-16.0.799-fabric",
           "name": "Roughly Enough Items (REI)",
@@ -733,27 +753,30 @@
           }
         },
         {
-          "id": "mod:Cobblemon-fabric-1.7.1+1.21.1",
+          "id": "mod:Cobblemon-fabric-1.7.3+1.21.1",
           "name": "Cobblemon",
           "type": "FabricMod",
           "required": { "value": true, "def": true },
           "artifact": {
-            "size": 130797814,
-            "MD5": "e59f92473437da937e85a892a5875d3d",
-            "url": "https://github.com/sharkz-dev/minemon.github.io/releases/download/v1.0.0/Cobblemon-fabric-1.7.1+1.21.1.jar"
+            "size": 135801550,
+            "MD5": "1de64f280372ec94e4376976fb579d52",
+            "url": "https://github.com/sharkz-dev/minemon.github.io/releases/download/v1.4.2/Cobblemon-fabric-1.7.3+1.21.1.jar"
           }
         },
-        {
-          "id": "mod:mega_showdown-fabric-1.5.1+1.7.1+1.21.1-b-4",
-          "name": "Mega Showdown",
-          "type": "FabricMod",
-          "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 16275404,
-            "MD5": "dd45a40da894bcc02cd12614dbf90324",
-            "url": "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.5.1+1.7.1+1.21.1-b-4.jar"
-          }
-        },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.6.7+1.7.3+1.21.1.jar",
+                         "MD5":  "493f9ce24fc852b75f1258da5eff2d6e",
+                         "size":  16282162
+                     },
+        "name":  "Mega Showdown",
+        "id":  "mod:mega_showdown-fabric-1.6.7+1.7.3+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "id": "mod:architectury-13.0.8-fabric",
           "name": "Architectury API",
@@ -831,6 +854,20 @@
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods/indium-1.0.35+mc1.21.jar"
           }
         },
+            {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.1.jar",
+                         "MD5":  "89325dae67912e6782f7e3d43f2b08a0",
+                         "size":  2428067
+                     },
+        "name":  "zamega-fabric-1.5.1",
+        "id":  "mod:zamega-fabric-1.5.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "id": "mod:lithium-fabric-0.15.1+mc1.21.1",
           "name": "Lithium",
