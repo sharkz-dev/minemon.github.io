@@ -253,12 +253,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.1.jar",
-                         "MD5":  "89325dae67912e6782f7e3d43f2b08a0",
-                         "size":  2428067
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.3.jar",
+                         "MD5":  "d19e73c6e8ac4ce75ca388f6d258630e",
+                         "size":  2390094
                      },
-        "name":  "zamega-fabric-1.5.1",
-        "id":  "mod:zamega-fabric-1.5.1",
+        "name":  "zamega-fabric-1.5.3",
+        "id":  "mod:zamega-fabric-1.5.3",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
