@@ -146,6 +146,7 @@
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods/architectury-13.0.8-fabric.jar"
           }
         },
+<<<<<<< HEAD
     {
         "artifact":  {
                          "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.4.jar",
@@ -154,6 +155,16 @@
                      },
         "name":  "zamega-fabric-1.5.4",
         "id":  "mod:zamega-fabric-1.5.4",
+=======
+     {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.3.jar",
+                         "MD5":  "d19e73c6e8ac4ce75ca388f6d258630e",
+                         "size":  2390094
+                     },
+        "name":  "zamega-fabric-1.5.3",
+        "id":  "mod:zamega-fabric-1.5.3",
+>>>>>>> d09345b3f8ceb4eab2786063b681c9164d651751
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
