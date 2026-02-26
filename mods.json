@@ -127,12 +127,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.6.7+1.7.3+1.21.1.jar",
-                         "MD5":  "493f9ce24fc852b75f1258da5eff2d6e",
-                         "size":  16282162
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar",
+                         "MD5":  "2ab76063e58f96c88c3d9c2612c50955",
+                         "size":  16330490
                      },
-        "name":  "mega_showdown-fabric-1.6.7+1.7.3+1.21.1",
-        "id":  "mod:mega_showdown-fabric-1.6.7+1.7.3+1.21.1",
+        "name":  "mega_showdown-fabric-1.6.12+1.7.3+1.21.1",
+        "id":  "mod:mega_showdown-fabric-1.6.12+1.7.3+1.21.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -253,12 +253,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.3.jar",
-                         "MD5":  "d19e73c6e8ac4ce75ca388f6d258630e",
-                         "size":  2390094
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.5.4.jar",
+                         "MD5":  "3c94d18556c41d7ac056effc3babaf15",
+                         "size":  2390310
                      },
-        "name":  "zamega-fabric-1.5.3",
-        "id":  "mod:zamega-fabric-1.5.3",
+        "name":  "zamega-fabric-1.5.4",
+        "id":  "mod:zamega-fabric-1.5.4",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
