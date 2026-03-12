@@ -127,12 +127,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar",
-                         "MD5":  "2ab76063e58f96c88c3d9c2612c50955",
-                         "size":  16330490
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.7.1+1.7.3+1.21.1-hotfix.jar",
+                         "MD5":  "23ef839596940738f061cab638ae6fa0",
+                         "size":  16401384
                      },
-        "name":  "mega_showdown-fabric-1.6.12+1.7.3+1.21.1",
-        "id":  "mod:mega_showdown-fabric-1.6.12+1.7.3+1.21.1",
+        "name":  "mega_showdown-fabric-1.7.1+1.7.3+1.21.1-hotfix",
+        "id":  "mod:mega_showdown-fabric-1.7.1+1.7.3+1.21.1-hotfix",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
