@@ -159,7 +159,7 @@
                          "def":  true,
                          "value":  true
                      }
-    }
+    },
         {
           "id": "mod:cloth-config-15.0.140-fabric",
           "name": "Cloth Config",
@@ -867,7 +867,7 @@
                          "def":  true,
                          "value":  true
                      }
-    }
+    },
         {
           "id": "mod:lithium-fabric-0.15.1+mc1.21.1",
           "name": "Lithium",
