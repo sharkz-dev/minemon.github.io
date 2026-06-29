@@ -1,0 +1,10 @@
+﻿{
+    "name":  "Fabric (fabric-loader)",
+    "id":  "net.fabricmc:fabric-loader:0.19.3",
+    "type":  "Fabric",
+    "artifact":  {
+                     "url":  "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar",
+                     "MD5":  "0b90a83eb9910468c60152f6594b9271",
+                     "size":  26836906
+                 }
+}

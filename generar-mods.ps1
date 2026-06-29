@@ -3,7 +3,7 @@ $outputFile = "mods.json"
 
 $items = @()
 
-Get-ChildItem -Path ".\mods" -Filter "*.jar" -File | ForEach-Object {
+Get-ChildItem -Path ".\mods-plus" -Filter "*.jar" -File | ForEach-Object {
     $hash = (Get-FileHash -Algorithm MD5 $_.FullName).Hash.ToLower()
     $size = $_.Length
     $name = $_.BaseName
@@ -19,7 +19,7 @@ Get-ChildItem -Path ".\mods" -Filter "*.jar" -File | ForEach-Object {
         artifact = @{
             size = $size
             MD5  = $hash
-            url  = "$baseUrl/mods/$($_.Name)"
+            url  = "$baseUrl/mods-plus/$($_.Name)"
         }
     }
 }

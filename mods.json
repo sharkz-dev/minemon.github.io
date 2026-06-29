@@ -1,12 +1,12 @@
 ﻿[
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar",
-                         "MD5":  "8d601e9373c7657c978235e8c0ab2da8",
-                         "size":  1095894
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+                         "MD5":  "1f332447eadf66a07b33e641816fcd5e",
+                         "size":  1095802
                      },
-        "name":  "accessories-fabric-1.1.0-beta.52+1.21.1",
-        "id":  "mod:accessories-fabric-1.1.0-beta.52+1.21.1",
+        "name":  "accessories-fabric-1.1.0-beta.53+1.21.1",
+        "id":  "mod:accessories-fabric-1.1.0-beta.53+1.21.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -15,7 +15,7 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/architectury-13.0.8-fabric.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/architectury-13.0.8-fabric.jar",
                          "MD5":  "702e92d09a4855c6c8aa9e738a48efa4",
                          "size":  600915
                      },
@@ -29,7 +29,91 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/bobby-5.2.4+mc1.21.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/AsyncParticles-3.3.11+1.21.1.jar",
+                         "MD5":  "0e0c3c070660b0aafed718e91d35e721",
+                         "size":  1272640
+                     },
+        "name":  "AsyncParticles-3.3.11+1.21.1",
+        "id":  "mod:AsyncParticles-3.3.11+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/athena-fabric-1.21.1-4.0.6.jar",
+                         "MD5":  "a549af3b3a32722ab81ff11d9f44f90b",
+                         "size":  88425
+                     },
+        "name":  "athena-fabric-1.21.1-4.0.6",
+        "id":  "mod:athena-fabric-1.21.1-4.0.6",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/awcapi-fabric-1.21.1-1.0.2.jar",
+                         "MD5":  "d6be18684725b78e06b118c86d23893a",
+                         "size":  688589
+                     },
+        "name":  "awcapi-fabric-1.21.1-1.0.2",
+        "id":  "mod:awcapi-fabric-1.21.1-1.0.2",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/BadOptimizations-2.4.1-1.21.1.jar",
+                         "MD5":  "59ee243a5ccd09fff1dd2879b3cad72a",
+                         "size":  283566
+                     },
+        "name":  "BadOptimizations-2.4.1-1.21.1",
+        "id":  "mod:BadOptimizations-2.4.1-1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/BetterFullscreen-v2.3.0-mc1.21.1.jar",
+                         "MD5":  "bca36a8a964cdc4c9d7861a56c22d19e",
+                         "size":  207306
+                     },
+        "name":  "BetterFullscreen-v2.3.0-mc1.21.1",
+        "id":  "mod:BetterFullscreen-v2.3.0-mc1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+                         "MD5":  "32de4a8aff2d1706a69f44fd22acd78c",
+                         "size":  52188
+                     },
+        "name":  "BetterThirdPerson-Fabric-1.21-1.9.0",
+        "id":  "mod:BetterThirdPerson-Fabric-1.21-1.9.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/bobby-5.2.4+mc1.21.jar",
                          "MD5":  "2f842ec35ec49b869047786de5551420",
                          "size":  863192
                      },
@@ -43,7 +127,63 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/cloth-config-15.0.140-fabric.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cardinal-components-api-6.1.3.jar",
+                         "MD5":  "8febe13b1c2df1e90a6fa8b5de8521a4",
+                         "size":  229645
+                     },
+        "name":  "cardinal-components-api-6.1.3",
+        "id":  "mod:cardinal-components-api-6.1.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/catchrate-display-fabric-2.8.22.jar",
+                         "MD5":  "c179e5ff4c5fa735bbcedd0f4fadf2dd",
+                         "size":  260470
+                     },
+        "name":  "catchrate-display-fabric-2.8.22",
+        "id":  "mod:catchrate-display-fabric-2.8.22",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/chefsdelight-1.0.5-fabric-1.21.1.jar",
+                         "MD5":  "5b746967ebc5efd0456c7a500b2b5300",
+                         "size":  110480
+                     },
+        "name":  "chefsdelight-1.0.5-fabric-1.21.1",
+        "id":  "mod:chefsdelight-1.0.5-fabric-1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/chipped-fabric-1.21.1-4.0.2.jar",
+                         "MD5":  "c98271e7ba961e78e4a589fc53fa71a2",
+                         "size":  15016830
+                     },
+        "name":  "chipped-fabric-1.21.1-4.0.2",
+        "id":  "mod:chipped-fabric-1.21.1-4.0.2",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cloth-config-15.0.140-fabric.jar",
                          "MD5":  "a2c091b027ad6ba8e54b07020fd45884",
                          "size":  1157166
                      },
@@ -57,12 +197,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/fabric-api-0.116.8+1.21.1.jar",
-                         "MD5":  "54d845f0ec97490a5e1b0dc4201d7c01",
-                         "size":  2425441
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobbledelight-0.1.jar",
+                         "MD5":  "774ccc399bc2b01f7979d7397b29444f",
+                         "size":  11926
                      },
-        "name":  "fabric-api-0.116.8+1.21.1",
-        "id":  "mod:fabric-api-0.116.8+1.21.1",
+        "name":  "cobbledelight-0.1",
+        "id":  "mod:cobbledelight-0.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -71,7 +211,385 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/ferritecore-7.0.3-fabric.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CobbledollarDummy-1.0.0.jar",
+                         "MD5":  "8d930566d392d9e2de7f8ee8af2211ee",
+                         "size":  2459
+                     },
+        "name":  "CobbledollarDummy-1.0.0",
+        "id":  "mod:CobbledollarDummy-1.0.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CobbleFurnies-fabric-1.1.jar",
+                         "MD5":  "f4237bdd60d3f7c6fd26bbf62224d702",
+                         "size":  2336960
+                     },
+        "name":  "CobbleFurnies-fabric-1.1",
+        "id":  "mod:CobbleFurnies-fabric-1.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemon-additions-4.3.0.jar",
+                         "MD5":  "95271256e456dd846ac4587f6f46b5bf",
+                         "size":  3198962
+                     },
+        "name":  "cobblemon-additions-4.3.0",
+        "id":  "mod:cobblemon-additions-4.3.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemon-battle-extras-fabric-1.13.45.jar",
+                         "MD5":  "dbf09923dc28a0339c5c5bb7eae9061d",
+                         "size":  1515972
+                     },
+        "name":  "cobblemon-battle-extras-fabric-1.13.45",
+        "id":  "mod:cobblemon-battle-extras-fabric-1.13.45",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Cobblemon-fabric-1.7.3+1.21.1.jar",
+                         "MD5":  "1de64f280372ec94e4376976fb579d52",
+                         "size":  135801550
+                     },
+        "name":  "Cobblemon-fabric-1.7.3+1.21.1",
+        "id":  "mod:Cobblemon-fabric-1.7.3+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemon-farmers-delight-compat-1.1.0.jar",
+                         "MD5":  "2ac37e2aafcf6cb72ee4d2a54f11c030",
+                         "size":  202832
+                     },
+        "name":  "cobblemon-farmers-delight-compat-1.1.0",
+        "id":  "mod:cobblemon-farmers-delight-compat-1.1.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonalphas-1.4.1.jar",
+                         "MD5":  "070a810976147453fb9eb57d1facd811",
+                         "size":  510732
+                     },
+        "name":  "cobblemonalphas-1.4.1",
+        "id":  "mod:cobblemonalphas-1.4.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonintegrations-fabric-1.21.1-1.1.6.jar",
+                         "MD5":  "90e5df694ce88be4c0d95673a71b2036",
+                         "size":  373321
+                     },
+        "name":  "cobblemonintegrations-fabric-1.21.1-1.1.6",
+        "id":  "mod:cobblemonintegrations-fabric-1.21.1-1.1.6",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CobblemonMoveDex-1.2.jar",
+                         "MD5":  "dd989f3af5d7fe3cd95aeae54f44059e",
+                         "size":  51113
+                     },
+        "name":  "CobblemonMoveDex-1.2",
+        "id":  "mod:CobblemonMoveDex-1.2",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonraiddens-fabric-0.11.2+1.21.1.jar",
+                         "MD5":  "ed4846cb52de691f1b353a6e77f1cb99",
+                         "size":  2688157
+                     },
+        "name":  "cobblemonraiddens-fabric-0.11.2+1.21.1",
+        "id":  "mod:cobblemonraiddens-fabric-0.11.2+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonRIzetweaks-1.2.3.jar",
+                         "MD5":  "28d49b460ac018a1aff58d360a453199",
+                         "size":  88251
+                     },
+        "name":  "cobblemonRIzetweaks-1.2.3",
+        "id":  "mod:cobblemonRIzetweaks-1.2.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CobblemonTrialsEdition-fabric-1.3.1.jar",
+                         "MD5":  "796b62d5ea1440fcdda5c27aa0b27103",
+                         "size":  239222
+                     },
+        "name":  "CobblemonTrialsEdition-fabric-1.3.1",
+        "id":  "mod:CobblemonTrialsEdition-fabric-1.3.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemon_party_extras-fabric-1.8.15.jar",
+                         "MD5":  "571c3f037ef46bae2c7aac177e06fe57",
+                         "size":  394695
+                     },
+        "name":  "cobblemon_party_extras-fabric-1.8.15",
+        "id":  "mod:cobblemon_party_extras-fabric-1.8.15",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblenav-fabric-2.3.3.jar",
+                         "MD5":  "efbc5e5e05966cfd45f94ea0f8591cf2",
+                         "size":  1090821
+                     },
+        "name":  "cobblenav-fabric-2.3.3",
+        "id":  "mod:cobblenav-fabric-2.3.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Cobblepedia-Fabric-0.7.1.jar",
+                         "MD5":  "8050e68d92db31683a83b1bcfb3aa622",
+                         "size":  8276577
+                     },
+        "name":  "Cobblepedia-Fabric-0.7.1",
+        "id":  "mod:Cobblepedia-Fabric-0.7.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1).jar",
+                         "MD5":  "be0f627811076ba9ed1eb887b1081e18",
+                         "size":  45171772
+                     },
+        "name":  "complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1)",
+        "id":  "mod:complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1)",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CraftTweaker-fabric-1.21.1-21.0.38.jar",
+                         "MD5":  "967bf1fe22ea2af08ec1746c6f29a124",
+                         "size":  4178419
+                     },
+        "name":  "CraftTweaker-fabric-1.21.1-21.0.38",
+        "id":  "mod:CraftTweaker-fabric-1.21.1-21.0.38",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+                         "MD5":  "068aace7ea97d0a511ce4e13599c7c79",
+                         "size":  863362
+                     },
+        "name":  "emotecraft-for-MC1.21.1-2.4.12-fabric",
+        "id":  "mod:emotecraft-for-MC1.21.1-2.4.12-fabric",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ends_delight-2.5.2+refabricated.1.21.1.jar",
+                         "MD5":  "2b23e81635916167282d0be749a31300",
+                         "size":  260235
+                     },
+        "name":  "ends_delight-2.5.2+refabricated.1.21.1",
+        "id":  "mod:ends_delight-2.5.2+refabricated.1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/enhancedblockentities-0.10.2+1.21.jar",
+                         "MD5":  "793df59eddd294419dabcca66d1458ef",
+                         "size":  201157
+                     },
+        "name":  "enhancedblockentities-0.10.2+1.21",
+        "id":  "mod:enhancedblockentities-0.10.2+1.21",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/entityculling-fabric-1.10.5-mc1.21.1.jar",
+                         "MD5":  "833cb8fd661a52acf63856d22e45f832",
+                         "size":  1595131
+                     },
+        "name":  "entityculling-fabric-1.10.5-mc1.21.1",
+        "id":  "mod:entityculling-fabric-1.10.5-mc1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/extra-move-anims-cobblemon-1.7v1.0.2.jar",
+                         "MD5":  "f6db659fcf908169c4d9aac01cef09fc",
+                         "size":  584731
+                     },
+        "name":  "extra-move-anims-cobblemon-1.7v1.0.2",
+        "id":  "mod:extra-move-anims-cobblemon-1.7v1.0.2",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/fabric-api-0.116.12+1.21.1.jar",
+                         "MD5":  "f85c049c10c2240f89abe287ba0882d4",
+                         "size":  2427037
+                     },
+        "name":  "fabric-api-0.116.12+1.21.1",
+        "id":  "mod:fabric-api-0.116.12+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                         "MD5":  "dff437aac8aae6eb76ae9db6b6ea9cb0",
+                         "size":  8076848
+                     },
+        "name":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0",
+        "id":  "mod:fabric-language-kotlin-1.13.12+kotlin.2.4.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+                         "MD5":  "0a509a64f871c958ab659fa684ea10c4",
+                         "size":  3240212
+                     },
+        "name":  "FarmersDelight-1.21.1-3.3.3+refabricated",
+        "id":  "mod:FarmersDelight-1.21.1-3.3.3+refabricated",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/fast-ip-ping-v1.0.11-mc1.21.1-fabric.jar",
+                         "MD5":  "8f6ee3e84c0c67a429d55963cb467000",
+                         "size":  10198
+                     },
+        "name":  "fast-ip-ping-v1.0.11-mc1.21.1-fabric",
+        "id":  "mod:fast-ip-ping-v1.0.11-mc1.21.1-fabric",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+                         "MD5":  "152ad82fd20ab2fd34bcd387bad5dde7",
+                         "size":  15966
+                     },
+        "name":  "FauxCustomEntityData-fabric-1.21.1-13.0.1",
+        "id":  "mod:FauxCustomEntityData-fabric-1.21.1-13.0.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ferritecore-7.0.3-fabric.jar",
                          "MD5":  "b8513c8c3eef01ea1117ed8d8cba060d",
                          "size":  123450
                      },
@@ -85,7 +603,77 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/indium-1.0.35+mc1.21.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/fightorflight-fabric-0.10.8.jar",
+                         "MD5":  "37560b305a606c9665884402e26a64af",
+                         "size":  1424545
+                     },
+        "name":  "fightorflight-fabric-0.10.8",
+        "id":  "mod:fightorflight-fabric-0.10.8",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                         "MD5":  "eba1a7f9d9976e983a2b9eb5e915e087",
+                         "size":  633065
+                     },
+        "name":  "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
+        "id":  "mod:ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/framework-fabric-1.21.1-0.13.11.jar",
+                         "MD5":  "dd84f69d6773a1c48394149039154539",
+                         "size":  1647903
+                     },
+        "name":  "framework-fabric-1.21.1-0.13.11",
+        "id":  "mod:framework-fabric-1.21.1-0.13.11",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/geckolib-fabric-1.21.1-4.9.1.jar",
+                         "MD5":  "20258c37c10fd6f2a6563a3e59504549",
+                         "size":  660426
+                     },
+        "name":  "geckolib-fabric-1.21.1-4.9.1",
+        "id":  "mod:geckolib-fabric-1.21.1-4.9.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+                         "MD5":  "15a2eafb373bf55d7db6b45971110825",
+                         "size":  342770
+                     },
+        "name":  "ImmediatelyFast-Fabric-1.6.10+1.21.1",
+        "id":  "mod:ImmediatelyFast-Fabric-1.6.10+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/indium-1.0.35+mc1.21.jar",
                          "MD5":  "db92c620cb72a41403b928a0b45955d0",
                          "size":  105000
                      },
@@ -99,7 +687,21 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/Jade-1.21.1-Fabric-15.10.5.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Ixeris-4.5.1+1.21.1-fabric.jar",
+                         "MD5":  "7cd2668326129e41c46930492d31f446",
+                         "size":  722533
+                     },
+        "name":  "Ixeris-4.5.1+1.21.1-fabric",
+        "id":  "mod:Ixeris-4.5.1+1.21.1-fabric",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Jade-1.21.1-Fabric-15.10.5.jar",
                          "MD5":  "a9c20c6a83e08abed4aa62dfa5e608ad",
                          "size":  739009
                      },
@@ -113,12 +715,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/lithium-fabric-0.15.1+mc1.21.1.jar",
-                         "MD5":  "80e7fc6c2cbeb0e097f8a25880ccd0a8",
-                         "size":  772848
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/krypton-0.2.8.jar",
+                         "MD5":  "9ba3d734dac0e59deb4721f2f23c65ad",
+                         "size":  161045
                      },
-        "name":  "lithium-fabric-0.15.1+mc1.21.1",
-        "id":  "mod:lithium-fabric-0.15.1+mc1.21.1",
+        "name":  "krypton-0.2.8",
+        "id":  "mod:krypton-0.2.8",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -127,12 +729,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix.jar",
-                         "MD5":  "940a87a5a521436377bcf3f6b4e68d91",
-                         "size":  17101047
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/legendarymonuments-fabric-8.0.2.jar",
+                         "MD5":  "ba9b9cf0324b99a23aa01511324e6494",
+                         "size":  16580179
                      },
-        "name":  "mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix",
-        "id":  "mod:mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix",
+        "name":  "legendarymonuments-fabric-8.0.2",
+        "id":  "mod:legendarymonuments-fabric-8.0.2",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -141,12 +743,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/modmenu-11.0.3.jar",
-                         "MD5":  "d9a3c1f26c571e3eb07ef2ed3e89d1b0",
-                         "size":  973066
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/lithium-fabric-0.15.4+mc1.21.1.jar",
+                         "MD5":  "6fd6783640f42130f041b50cca2d3be6",
+                         "size":  797454
                      },
-        "name":  "modmenu-11.0.3",
-        "id":  "mod:modmenu-11.0.3",
+        "name":  "lithium-fabric-0.15.4+mc1.21.1",
+        "id":  "mod:lithium-fabric-0.15.4+mc1.21.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -155,12 +757,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/moreculling-fabric-1.21.1-1.0.6.jar",
-                         "MD5":  "d383c451682320ffad7f1a2edb53a2b9",
-                         "size":  345544
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/lithostitched-1.7.12-fabric-21.1.jar",
+                         "MD5":  "0757bad7d7eb7f60c211e75ca9a6d8d9",
+                         "size":  827221
                      },
-        "name":  "moreculling-fabric-1.21.1-1.0.6",
-        "id":  "mod:moreculling-fabric-1.21.1-1.0.6",
+        "name":  "lithostitched-1.7.12-fabric-21.1",
+        "id":  "mod:lithostitched-1.7.12-fabric-21.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -169,7 +771,91 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/owo-lib-0.12.15.4+1.21.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar",
+                         "MD5":  "0e3197dd14c98ce0240d498114cfe143",
+                         "size":  17213370
+                     },
+        "name":  "mega_showdown-fabric-1.8.4+1.7.3+1.21.1",
+        "id":  "mod:mega_showdown-fabric-1.8.4+1.7.3+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/modmenu-11.0.4.jar",
+                         "MD5":  "b2b9c53a887c100f780708c4f36db6c4",
+                         "size":  973059
+                     },
+        "name":  "modmenu-11.0.4",
+        "id":  "mod:modmenu-11.0.4",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/moreculling-fabric-1.21.1-1.0.7.jar",
+                         "MD5":  "25a3b661d2cf7ea41d7e5d9d04010cce",
+                         "size":  346926
+                     },
+        "name":  "moreculling-fabric-1.21.1-1.0.7",
+        "id":  "mod:moreculling-fabric-1.21.1-1.0.7",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/MouseTweaks-fabric-mc1.21-2.26.jar",
+                         "MD5":  "1d39ead1641ef522bc7ae92383f21da8",
+                         "size":  75984
+                     },
+        "name":  "MouseTweaks-fabric-mc1.21-2.26",
+        "id":  "mod:MouseTweaks-fabric-mc1.21-2.26",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/MyNethersDelight-1.21.1-2.0.4+1.7.8.refabricated.jar",
+                         "MD5":  "01f9c31b658d402c56a6de22b0373c8b",
+                         "size":  703919
+                     },
+        "name":  "MyNethersDelight-1.21.1-2.0.4+1.7.8.refabricated",
+        "id":  "mod:MyNethersDelight-1.21.1-2.0.4+1.7.8.refabricated",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/noxesium-2.3.3.jar",
+                         "MD5":  "1b70ca6bf7a4682445b404c8d7a6e904",
+                         "size":  545182
+                     },
+        "name":  "noxesium-2.3.3",
+        "id":  "mod:noxesium-2.3.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/owo-lib-0.12.15.4+1.21.jar",
                          "MD5":  "3627aee17111e12a8c66928f5d7a3fba",
                          "size":  1183559
                      },
@@ -183,7 +869,63 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                         "MD5":  "8f22fb065079340a72ae5ce0da12efcb",
+                         "size":  46623
+                     },
+        "name":  "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+        "id":  "mod:packetfixer-3.3.1-1.20.5-1.21.X-merged",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Patchouli-1.21.1-93-FABRIC.jar",
+                         "MD5":  "93596d0eb1bb97c4825b0341532ff46d",
+                         "size":  861256
+                     },
+        "name":  "Patchouli-1.21.1-93-FABRIC",
+        "id":  "mod:Patchouli-1.21.1-93-FABRIC",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/placeholder-api-2.4.2+1.21.jar",
+                         "MD5":  "4de8568a088a276c94168514d625413d",
+                         "size":  232325
+                     },
+        "name":  "placeholder-api-2.4.2+1.21",
+        "id":  "mod:placeholder-api-2.4.2+1.21",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/resourcefullib-fabric-1.21-3.0.12.jar",
+                         "MD5":  "89dac4248b76747800fbc00fa063825e",
+                         "size":  485586
+                     },
+        "name":  "resourcefullib-fabric-1.21-3.0.12",
+        "id":  "mod:resourcefullib-fabric-1.21-3.0.12",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/RoughlyEnoughItems-16.0.799-fabric.jar",
                          "MD5":  "8a011fbf376cc4350743274bfd16d3cf",
                          "size":  2451799
                      },
@@ -197,7 +939,63 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/rustlingspots-fabric-4.0.jar",
+                         "MD5":  "8867e4b29cfa8bcdf0cd9b1ac8d450e3",
+                         "size":  6369270
+                     },
+        "name":  "rustlingspots-fabric-4.0",
+        "id":  "mod:rustlingspots-fabric-4.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+                         "MD5":  "34cb60a3db0f2439db221bc3325c1411",
+                         "size":  177266
+                     },
+        "name":  "ScalableLux-0.1.0.1+fabric.d0d58ab-all",
+        "id":  "mod:ScalableLux-0.1.0.1+fabric.d0d58ab-all",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+                         "MD5":  "79d01b3131d41091b3427367564a26e9",
+                         "size":  379091
+                     },
+        "name":  "shulkerboxtooltip-fabric-5.1.9+1.21.1",
+        "id":  "mod:shulkerboxtooltip-fabric-5.1.9+1.21.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/smart_particles+mc1.21.1-1.01.10.jar",
+                         "MD5":  "7051f36a240769e2f56a0e8f0544ad06",
+                         "size":  50316
+                     },
+        "name":  "smart_particles+mc1.21.1-1.01.10",
+        "id":  "mod:smart_particles+mc1.21.1-1.01.10",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/sodium-fabric-0.6.13+mc1.21.1.jar",
                          "MD5":  "aa37ba0048a1af6b554b137088cad484",
                          "size":  1297761
                      },
@@ -211,12 +1009,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/voicechat-fabric-1.21.1-2.6.11.jar",
-                         "MD5":  "7bc61fa298eba84cb10ab82a8199e3f1",
-                         "size":  5341236
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+                         "MD5":  "44bf607ca1a8bfb7410514db85ac9c28",
+                         "size":  2996065
                      },
-        "name":  "voicechat-fabric-1.21.1-2.6.11",
-        "id":  "mod:voicechat-fabric-1.21.1-2.6.11",
+        "name":  "sophisticatedcore-1.21.1-1.2.9.21.168",
+        "id":  "mod:sophisticatedcore-1.21.1-1.2.9.21.168",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -225,12 +1023,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/xaerominimap-fabric-1.21.1-25.3.5.jar",
-                         "MD5":  "fb6b4241c0573185502ad9f840c4c1a7",
-                         "size":  2159839
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+                         "MD5":  "3e02634de2d379bf58b58bb14c2e5481",
+                         "size":  1670672
                      },
-        "name":  "xaerominimap-fabric-1.21.1-25.3.5",
-        "id":  "mod:xaerominimap-fabric-1.21.1-25.3.5",
+        "name":  "sophisticatedstorage-1.21.1-1.3.7.9.139",
+        "id":  "mod:sophisticatedstorage-1.21.1-1.3.7.9.139",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -239,12 +1037,12 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
-                         "MD5":  "3871e11f81a54867de32a81f885291e2",
-                         "size":  1406730
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/threadtweak-fabric-0.1.5+mc1.21.1.jar",
+                         "MD5":  "68af87a76a40c84e613ef90c08219ba7",
+                         "size":  144270
                      },
-        "name":  "xaeroworldmap-fabric-1.21.1-1.40.6",
-        "id":  "mod:xaeroworldmap-fabric-1.21.1-1.40.6",
+        "name":  "threadtweak-fabric-0.1.5+mc1.21.1",
+        "id":  "mod:threadtweak-fabric-0.1.5+mc1.21.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
@@ -253,7 +1051,161 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods/zamega-fabric-1.7.3.jar",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/togglenametags-2.1.1.jar",
+                         "MD5":  "55a3f5455946356013c0ea6c072efc56",
+                         "size":  15505
+                     },
+        "name":  "togglenametags-2.1.1",
+        "id":  "mod:togglenametags-2.1.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Too Many Entities 1.21.1 Fabric v1.2.0.jar",
+                         "MD5":  "2192515f024637f423ddd8e0c7868473",
+                         "size":  73633
+                     },
+        "name":  "Too Many Entities 1.21.1 Fabric v1.2.0",
+        "id":  "mod:Too Many Entities 1.21.1 Fabric v1.2.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/TooManyPlayers-1.21-1.1.5.jar",
+                         "MD5":  "1662fb6ff8ab9302f547cc29a0260a98",
+                         "size":  481854
+                     },
+        "name":  "TooManyPlayers-1.21-1.1.5",
+        "id":  "mod:TooManyPlayers-1.21-1.1.5",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/travelersbackpack-fabric-1.21.1-10.1.36.jar",
+                         "MD5":  "ca3b049dfdd3e441b9505b2c1423e9fa",
+                         "size":  1498971
+                     },
+        "name":  "travelersbackpack-fabric-1.21.1-10.1.36",
+        "id":  "mod:travelersbackpack-fabric-1.21.1-10.1.36",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/TravelersTitles-1.21.1-Fabric-5.1.3.jar",
+                         "MD5":  "5de7c4441450fb5ed6f0d9d1676c71b6",
+                         "size":  349651
+                     },
+        "name":  "TravelersTitles-1.21.1-Fabric-5.1.3",
+        "id":  "mod:TravelersTitles-1.21.1-Fabric-5.1.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/vanillin-fabric-1.21.1-1.1.3.jar",
+                         "MD5":  "e0dc818448254c6f7ca17014dd1f8c9f",
+                         "size":  872000
+                     },
+        "name":  "vanillin-fabric-1.21.1-1.1.3",
+        "id":  "mod:vanillin-fabric-1.21.1-1.1.3",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+                         "MD5":  "f2186e75bdb5a19231e7fafdd27dc6e2",
+                         "size":  433667
+                     },
+        "name":  "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all",
+        "id":  "mod:vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/voicechat-fabric-1.21.1-2.6.20.jar",
+                         "MD5":  "eceef4cce4351ac0180ddeb125899a43",
+                         "size":  5361828
+                     },
+        "name":  "voicechat-fabric-1.21.1-2.6.20",
+        "id":  "mod:voicechat-fabric-1.21.1-2.6.20",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/xaerominimap-fabric-1.21.1-26.1.0.jar",
+                         "MD5":  "ca4021163a3a2e0a605f1a21f1e73215",
+                         "size":  2177932
+                     },
+        "name":  "xaerominimap-fabric-1.21.1-26.1.0",
+        "id":  "mod:xaerominimap-fabric-1.21.1-26.1.0",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/xaeroworldmap-fabric-1.21.1-1.41.2.jar",
+                         "MD5":  "393732db790fd58673a80a1bb75b5fee",
+                         "size":  1416055
+                     },
+        "name":  "xaeroworldmap-fabric-1.21.1-1.41.2",
+        "id":  "mod:xaeroworldmap-fabric-1.21.1-1.41.2",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/YungsApi-1.21.1-Fabric-5.1.6.jar",
+                         "MD5":  "117aa2db815986b1346ff6464d99aa6f",
+                         "size":  1257492
+                     },
+        "name":  "YungsApi-1.21.1-Fabric-5.1.6",
+        "id":  "mod:YungsApi-1.21.1-Fabric-5.1.6",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/zamega-fabric-1.7.3.jar",
                          "MD5":  "42019a1020a2c9ffccf529a42c968a16",
                          "size":  2387420
                      },
