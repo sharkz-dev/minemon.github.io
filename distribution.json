@@ -1504,6 +1504,20 @@
             "value": true
           }
         },
+            {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/elevatorid-fabric-1.21-1.11.1.jar",
+                         "MD5":  "6046e099c6566ef6e419f3533d9cbea1",
+                         "size":  185086
+                     },
+        "name":  "elevatorid-fabric-1.21-1.11.1",
+        "id":  "mod:elevatorid-fabric-1.21-1.11.1",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "artifact": {
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CobblemonTrialsEdition-fabric-1.3.1.jar",

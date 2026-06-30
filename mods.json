@@ -267,20 +267,6 @@
     },
     {
         "artifact":  {
-                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/Cobblemon-fabric-1.7.3+1.21.1.jar",
-                         "MD5":  "1de64f280372ec94e4376976fb579d52",
-                         "size":  135801550
-                     },
-        "name":  "Cobblemon-fabric-1.7.3+1.21.1",
-        "id":  "mod:Cobblemon-fabric-1.7.3+1.21.1",
-        "type":  "FabricMod",
-        "required":  {
-                         "def":  true,
-                         "value":  true
-                     }
-    },
-    {
-        "artifact":  {
                          "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemon-farmers-delight-compat-1.1.0.jar",
                          "MD5":  "2ac37e2aafcf6cb72ee4d2a54f11c030",
                          "size":  202832
@@ -441,6 +427,20 @@
                      },
         "name":  "CraftTweaker-fabric-1.21.1-21.0.38",
         "id":  "mod:CraftTweaker-fabric-1.21.1-21.0.38",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
+    {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/elevatorid-fabric-1.21-1.11.1.jar",
+                         "MD5":  "6046e099c6566ef6e419f3533d9cbea1",
+                         "size":  185086
+                     },
+        "name":  "elevatorid-fabric-1.21-1.11.1",
+        "id":  "mod:elevatorid-fabric-1.21-1.11.1",
         "type":  "FabricMod",
         "required":  {
                          "def":  true,
