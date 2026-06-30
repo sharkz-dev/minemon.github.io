@@ -8,9 +8,10 @@
   },
   "servers": [
     {
-      "id": "minemon-full",
-      "name": "Minemon Full",
-      "description": "Servidor Cobblemon con Fabric 1.21.1 (Todos los mods)",
+      "id": "cobblemon-full",
+      "name": "Cobblemon Full",
+      "group": "Cobblemon",  
+      "description": "Experiencia de Cobblemon lo más fiel a Vanilla.",
       "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
       "version": "1.0.0",
       "address": "minemon.es:25565",
@@ -701,9 +702,10 @@
       ]
     },
     {
-      "id": "minemon-optimizado",
-      "name": "Minemon Optimizado",
-      "description": "Servidor Cobblemon con Fabric 1.21.1 (Solo esenciales)",
+      "id": "cobblemon-optimizado",
+      "name": "Cobblemon Optimizado",
+      "group": "Cobblemon",
+      "description": "Experiencia de Cobblemon lo más fiel a Vanilla. (Optimizada)",
       "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
       "version": "1.1.0",
       "address": "minemon.es:25565",
@@ -1047,8 +1049,9 @@
     },
     {
       "id": "cobblemonplus",
-      "name": "Cobblemon+",
-      "description": "Servidor Cobblemon+ con Fabric 1.21.1 (Modo expandido)",
+      "name": "Cobblemon+ Full",
+      "group": "Cobblemon+",  
+      "description": "Experiencia de Cobblemon más completa similar a Cobbleverse. (+80 mods)",
       "icon": "https://sharkz-dev.github.io/minemon.github.io/icon.png",
       "version": "1.0.0",
       "address": "minemon.es:25565",
