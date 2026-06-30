@@ -2354,7 +2354,195 @@
             "def": true,
             "value": true
           }
-        }
+        },
+        
+    {
+        "name":  "client.cfg",
+        "id":  "file:client.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/lib/client.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/lib/client.cfg",
+                         "MD5":  "dd7d24d2b991f7648671c16d0a74c265",
+                         "size":  26
+                     }
+    },
+    {
+        "name":  "common.cfg",
+        "id":  "file:common.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/lib/common.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/lib/common.cfg",
+                         "MD5":  "e085e122e32132e1fa73ac927f7ece81",
+                         "size":  236
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/lib/profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/lib/profiles/default.cfg",
+                         "MD5":  "e6a2491cfa99c4163942c19eb7b4c489",
+                         "size":  121
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/lib/server_profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/lib/server_profiles/default.cfg",
+                         "MD5":  "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+                         "size":  75
+                     }
+    },
+    {
+        "name":  "client.cfg",
+        "id":  "file:client.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/client.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/client.cfg",
+                         "MD5":  "7a8d5e6353c7471f6002052f1fbd71bb",
+                         "size":  235
+                     }
+    },
+    {
+        "name":  "common.cfg",
+        "id":  "file:common.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/common.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/common.cfg",
+                         "MD5":  "48d56532be92f58e976a2d1753abdd35",
+                         "size":  147
+                     }
+    },
+    {
+        "name":  "default_radar_categories_client.json",
+        "id":  "file:default_radar_categories_client.json",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/default_radar_categories_client.json",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/default_radar_categories_client.json",
+                         "MD5":  "0e8e29f25acbd9e2afba35ce9bb2fb9c",
+                         "size":  5531
+                     }
+    },
+    {
+        "name":  "default_radar_categories_server.json",
+        "id":  "file:default_radar_categories_server.json",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/default_radar_categories_server.json",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/default_radar_categories_server.json",
+                         "MD5":  "7ffe568a308241b93166af2d45ce79c7",
+                         "size":  4597
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/profiles/default.cfg",
+                         "MD5":  "8b6786fd21cb30cc54adf98ac0b8e393",
+                         "size":  3755
+                     }
+    },
+    {
+        "name":  "default.cfg.json",
+        "id":  "file:default.cfg.json",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+                         "MD5":  "1ab55d147d8749aa7a2a7314d404f21d",
+                         "size":  5531
+                     }
+    },
+    {
+        "name":  "default.cfg.txt",
+        "id":  "file:default.cfg.txt",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+                         "MD5":  "64d98932063f0be723920fbdb1de1268",
+                         "size":  684
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/minimap/server_profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/minimap/server_profiles/default.cfg",
+                         "MD5":  "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+                         "size":  75
+                     }
+    },
+    {
+        "name":  "client.cfg",
+        "id":  "file:client.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/world-map/client.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/world-map/client.cfg",
+                         "MD5":  "79350b92ac438bafae36ab7afcaa5815",
+                         "size":  491
+                     }
+    },
+    {
+        "name":  "common.cfg",
+        "id":  "file:common.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/world-map/common.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/world-map/common.cfg",
+                         "MD5":  "b5ddb993fe4200e02fec18254463b2c2",
+                         "size":  141
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/world-map/profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/world-map/profiles/default.cfg",
+                         "MD5":  "f4151e7df2284ff2ab24bef0ca2365c2",
+                         "size":  1379
+                     }
+    },
+    {
+        "name":  "default.cfg",
+        "id":  "file:default.cfg",
+        "type":  "File",
+        "artifact":  {
+                         "path":  "config-plus/xaero/world-map/server_profiles/default.cfg",
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/config-plus/xaero/world-map/server_profiles/default.cfg",
+                         "MD5":  "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+                         "size":  75
+                     }
+    },
+        {
+    "name":  "Server List",
+    "id":  "file:servers.dat",
+    "type":  "File",
+    "artifact":  {
+                     "path":  "servers.dat",
+                     "url":  "https://sharkz-dev.github.io/minemon.github.io/servers.dat",
+                     "MD5":  "8c2b4276edbe171981f433068de48f68",
+                     "size":  10148
+                 }
+}
       ]
     }
   ]

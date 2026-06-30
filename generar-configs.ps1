@@ -3,7 +3,7 @@ $outputFile = "files.json"
 
 $items = @()
 
-Get-ChildItem -Path ".\config" -Recurse -File | ForEach-Object {
+Get-ChildItem -Path ".\config-plus" -Recurse -File | ForEach-Object {
     $hash = (Get-FileHash -Algorithm MD5 $_.FullName).Hash.ToLower()
     $size = $_.Length
     $relative = $_.FullName.Substring((Get-Location).Path.Length + 1).Replace("\", "/")
