@@ -2991,7 +2991,18 @@
             "id": "mod:lithostitched-1.7.12-fabric-21.1",                                                                                                                                                            
             "type": "FabricMod",                                                                                                                                                                                     
             "required": { "def": true, "value": true }                                                                                                                                                               
-          }                                                                                                                                                                                                                          
+          },
+          {                                                                                                                                                                                                                  
+            "artifact": {                                                                                                                                                                                            
+              "url": "https://sharkz-dev.github.io/minemon.github.io/mods-plus/owo-lib-0.12.15.4+1.21.jar",                                                                                                          
+              "MD5": "3627aee17111e12a8c66928f5d7a3fba",                                                                                                                                                             
+              "size": 1183559                                                                                                                                                                                        
+            },                                                                                                                                                                                                       
+            "name": "owo-lib-0.12.15.4+1.21",                                                                                                                                                                        
+            "id": "mod:owo-lib-0.12.15.4+1.21",                                                                                                                                                                      
+            "type": "FabricMod",                                                                                                                                                                                     
+            "required": { "def": true, "value": true }                                                                                                                                                               
+          }                                                                                                                                                                                                                     
         ]                                                                                                                                                                                                                  
       }
   ]
