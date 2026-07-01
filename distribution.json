@@ -1154,6 +1154,20 @@
             "value": true
           }
         },
+            {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonminigames-fabric-2.0.4.jar",
+                         "MD5":  "76e46af9070825a4714f3f6024ba523a",
+                         "size":  7480428
+                     },
+        "name":  "cobblemonminigames-fabric-2.0.4",
+        "id":  "mod:cobblemonminigames-fabric-2.0.4",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
           "artifact": {
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods-plus/architectury-13.0.8-fabric.jar",
@@ -3069,6 +3083,20 @@
             "type": "FabricMod",                                                                                                                                                                                     
             "required": { "def": true, "value": true }                                                                                                                                                               
           },
+              {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/cobblemonminigames-fabric-2.0.4.jar",
+                         "MD5":  "76e46af9070825a4714f3f6024ba523a",
+                         "size":  7480428
+                     },
+        "name":  "cobblemonminigames-fabric-2.0.4",
+        "id":  "mod:cobblemonminigames-fabric-2.0.4",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
                   {
     "name":  "Server List",
     "id":  "file:servers.dat",
