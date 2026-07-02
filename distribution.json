@@ -1617,6 +1617,7 @@
             "value": true
           }
         },
+        
         {
           "artifact": {
             "url": "https://sharkz-dev.github.io/minemon.github.io/mods-plus/ends_delight-2.5.2+refabricated.1.21.1.jar",
@@ -2373,6 +2374,20 @@
             "value": true
           }
         },
+            {
+        "artifact":  {
+                         "url":  "https://sharkz-dev.github.io/minemon.github.io/mods-plus/CraftTweaker-fabric-1.21.1-21.0.38.jar",
+                         "MD5":  "967bf1fe22ea2af08ec1746c6f29a124",
+                         "size":  4178419
+                     },
+        "name":  "CraftTweaker-fabric-1.21.1-21.0.38",
+        "id":  "mod:CraftTweaker-fabric-1.21.1-21.0.38",
+        "type":  "FabricMod",
+        "required":  {
+                         "def":  true,
+                         "value":  true
+                     }
+    },
         {
     "name":  "Server List",
     "id":  "file:servers.dat",
